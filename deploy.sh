@@ -3,4 +3,6 @@ depoy java application
 deploy python apps
 deploy in the dev environment
 deployment4
-Deploy to staging
+Deploy to stagin
+echo goo job
+Tested and accepted
